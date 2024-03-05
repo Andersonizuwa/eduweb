@@ -11,9 +11,9 @@
 
   <h2 align="center">eduweb - Education Website</h2>
 
-  EduWeb is a fully responsive education website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
+  EduWeb is a fully responsive education website, <br />Responsive for all devices, built using HTML, CSS, and JavaScript.
 
-  <a href="https://codewithsadee.github.io/eduweb/"><strong>➥ Live Demo</strong></a>
+
 
 </div>
 
@@ -45,9 +45,6 @@ Windows:
 git clone https://github.com/codewithsadee/eduweb.git
 ```
 
-### Contact
-
-If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
 
 ### License
 
